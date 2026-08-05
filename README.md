@@ -1,3 +1,3 @@
 # Parque
 
-https://leonardobdev.github.io/Parque/
+https://leonardobdev.github.io/parque/
